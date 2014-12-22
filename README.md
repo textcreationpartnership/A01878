@@ -32,9 +32,14 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A newe ballade intytuled, Good fellowes must go learne to daunce1569Approx. 4 KB of XML-encoded text
+
+1. ❧A Newe Ballade intytuled / 
+Good Fellowes muſt go learne to Daunce.
+
 #####Back#####
-A newe ballade intytuled, Good fellowes must go learne to daunce1569Approx. 4 KB of XML-encoded text
+¶Imprinted at London, in Fleteſtrete at
+the ſigne of the Faucon, by Wylliam
+Gryffith, and are to be 
 **Types of content**
 
   * There are 76 **verse** lines!
